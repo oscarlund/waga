@@ -323,9 +323,13 @@ box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
     height: 38px;
     width:100%;
     padding: 4px 10px;
-}
-  input[type="email"] {
-width:50% !important;
-max-width:100px !imortant;
-}
+  }
+    input[type="email"] {
+  width:50% !important;
+  max-width:100px !imortant;
+  }
+  #mc_embed_signup input {
+    width:50% !important;
+  max-width:100px !imortant;
+  }
 }
