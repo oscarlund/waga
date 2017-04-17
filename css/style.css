@@ -67,7 +67,7 @@ input[type="submit"] {
   max-width:400px;
 }
 
-input {
+input[type=email] {
 -webkit-box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.2) !important;
 -moz-box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.2) !important;
 box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.2) !important;
