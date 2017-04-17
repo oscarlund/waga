@@ -59,7 +59,7 @@ input[type=email] {
 -webkit-box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.2) !important;
 -moz-box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.2) !important;
 box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.2) !important;
-border-style:none;
+border-style: solid;
 border-radius: 5px;
 font-size: 15px;
 padding:10px 10px 10px 10px;
