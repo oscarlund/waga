@@ -50,7 +50,7 @@ width:60%;
 max-width:400px;
 }
 
-input[type="text"], input[type="email"], input[type="search"], input[type="password"], input[type="button"] {
+input[type="text"], input[type="email"], input[type="search"], input[type="password"], input[type="submit"] {
 -webkit-appearance: caret;
 -moz-appearance: caret; /* mobile firefox too! */
 -webkit-box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.2);
@@ -61,7 +61,7 @@ border-radius: 5px;
 font-size: 15px;
 }
 
-input[type=email] {
+input[type="email"] {
 -webkit-box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.2) !important;
 -moz-box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.2) !important;
 box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.2) !important;
