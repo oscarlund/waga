@@ -57,7 +57,7 @@ input[type="text"], input[type="email"], input[type="search"], input[type="passw
 -moz-box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.2);
 box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.2);
 border-style:none;
-border-radius: 5px;
+border-radius: 3px;
 font-size: 15px;
 }
 
