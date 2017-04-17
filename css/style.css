@@ -324,13 +324,13 @@ box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
     width:100%;
     padding: 4px 10px;
   }
-    /*input[type="email"] {
+    input[type="email"] {
   width:50% !important;
   max-width:300px !important;
   }
-  */
+  /*
   #mc_embed_signup input {
     width:50% !important;
   max-width:300px !important;
-  }
+  }*/
 }
