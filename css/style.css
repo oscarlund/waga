@@ -253,11 +253,11 @@ input:focus {
   width:48%;
   float:left;
   margin:1%;
-  transition: all 0.2 ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
 .insta:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 .insta > img{
