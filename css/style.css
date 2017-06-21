@@ -253,7 +253,10 @@ input:focus {
   width:48%;
   float:left;
   margin:1%;
+}
 
+.insta:hover {
+  transform: scale(1.1);
 }
 
 .insta > img{
